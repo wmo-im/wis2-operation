@@ -1,0 +1,67 @@
+== PART III. Procedures for Issues Management
+
+The WIS2 ticketing system is provided and operated by WMO : https://jira.wmo.int.
+
+The GISC in charge needs to review the tickets:
+•	Frequency: at least once or twice a week.
+•	Focus on “stalled” ticket”: send reminder for tickets inactive for more than 2 weeks
+•	Hopefully, most tickets are created automatically by the GISC Monitoring.
+
+Here is the procedure to review Jira Tickets for the GISC Watch:
+
+1.	Connect to https://jira.wmo.int (request credentials to WMO Secretariat if needed)
+2.	Select WIS2 IMS Project
+3.	Remove « DONE » from Status:
+
+4.	Work with tickets:
+◦	Review ticket list and send reminders (inside tickets) for tickets inactive for more than 2 weeks.
+◦	Assign tickets to relevant Assignees for the tickets with status “TRIAGE” (new tickets)
+
+
+Table-1: Priority Levels
+
+=== Incident Impact Levels and GISC Response Times
+
+[cols="1,3,2,1,1", options="header"]
+|===
+| Level
+| Impact
+| Examples
+| Assigned GISC: Time to Respond
+| Assigned GISC: Time to Resolve
+
+| Very High
+| - Severe impact on one or more GISC operations +
+  - Immediate action required
+| - Total failure of Global Services
+| ASAP / within 1 day
+| ASAP / within 1 week
+
+| High
+| - One or more essential services are unavailable +
+  - Action required within one week
+| - Global Services are offline
+| Within 1 week
+| Within 1 month
+
+| Medium
+| - Essential services not affected +
+  - Response required, monitoring ongoing
+| - Partial outage of a Global Service +
+  - Missing data from multiple WIS2Nodes simultaneously
+| Within 1 week
+| Monthly progress updates
+
+| Low
+| Not to be used
+| —
+| —
+| —
+
+| None
+| Not to be used
+| —
+| —
+| —
+|===
+
