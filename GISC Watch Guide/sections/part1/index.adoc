@@ -1,0 +1,25 @@
+== PART I. Procedures for Take over
+Procedure to use when a GISC starts its GISC watch period:
+
+(a).	Take over the GISC Watch duty according to the agreed roster.
+
+The GISC Watch roster is available on the ET-WISOP page:
+https://community.wmo.int/en/activity-areas/wis/gisc_watch
+
+
+(b).	Accept the hand-over-report from previous GISC, and acknowledge to them.
+To ensure the continuity of GISC Watch, the monitoring duty shall be carried out by the duty GISC at the beginning of the roster period regardless whether it has received handover email from the previous GISC.
+
+(c). Review open tickets at the beginning of its monitoring round.
+
+
+>  From: GISC Beijing
+>  To: GISC Toulouse
+>  Cc: gisc-op@groups.wmo.int + WMOSecretariat
+>  Subject: GISC WATCH Takeover (16-30 April) confirmed: GISC Watch Report 01-15 April 2025
+>  
+>  Dear GISC Toulouse,
+>  Thank you for your efforts and the handover report. 
+>  GISC Beijing will take over the duty from April 16th to 30th 2025.
+>  Best regards,
+>  GISC Beijing
