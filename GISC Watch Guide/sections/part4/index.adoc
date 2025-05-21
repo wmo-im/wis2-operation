@@ -1,0 +1,55 @@
+== PART IV. Procedures for Handover
+
+== Procedures for GISC Watch Handover
+
+=== (a) Handover Process
+
+1. The GISC currently on duty is responsible for sending the handover report to the next GISC in the roster.
+2. If no confirmation is received:
+   - The current GISC must follow up with a reminder.
+   - GISC Watch duties must be maintained until the next GISC acknowledges receipt of the handover.
+3. If there is still no response:
+   - The GISC following the next one in the roster should be contacted to agree on a revised handover date.
+   - The purpose is to ensure continuity by splitting the remaining period between the two GISCs if needed.
+
+=== (b) Summary Handover Report
+
+1. The handover report *formally transfers GISC Watch responsibilities* to the next GISC.
+2. The report must be sent as follows:
+   * *To:* the next GISC in the roster
+   * *CC:* ET-WISOP mailing list (`et-wisop@groups.wmo.int`)
+   * *CC:* WMO Secretariat (`wis@wmo.int`)
+3. A sample report is provided below.
+
+== GISC WATCH REPORT EXAMPLE
+
+*From:* GISC Toulouse  
+*To:* GISC Beijing  
+*Cc:* gisc-op@groups.wmo.int   
+*Subject:* GISC WATCH REPORT — 01–15 April 2025
+
+----
+
+Dear GISC Beijing,
+
+GISC Toulouse has completed the GISC Watch duty for the period *1–15 April 2025*. Please find below the summary report for this period.
+
+1. General Information
+
+▪	 WIS2 to GTS gateway test conducted on *9 April 2025*
+
+2. Global Services Status
+
+▪	[Provide a summary of the operational status, issues encountered, or actions taken during the watch period]
+
+3.JIRA tickets activity:
+▪	Several ticket assignations from “TRIAGE” performed
+▪	Duplicate tickets closed
+▪	Several stalled tickets reminders send
+
+GISC Beijing: Would you please confirm the GISC Watch handover?
+Best regards,
+GISC Toulouse
+
+
+----
