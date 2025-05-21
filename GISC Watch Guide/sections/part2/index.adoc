@@ -1,0 +1,13 @@
+== PART II.Procedures for Monitor
+Procedure to use by the GISC in charge during the monitoring period.
+
+Basic principles:
+
+1. 	the GISC Watch’s goal is focusing on the Global Services level (Global Brokers, Global Caches, Global Discovery Catalogues, Global Monitorings).
+2. issues regarding data coming from WIS2Nodes are manages by GISCs according to their AoR (Area of Responsibility). The GISC Watch can pinpoint issues to the GISCs, but this is not mandatory.
+3. a large part of the monitoring activity is already performed on the Global Monitor level, with JIRA tickets to be automatically initiated.
+
+The following table shall be filled in, by checking Global Monitoring metrics:
+ 
+
+Check has to be performed at roster start and roster end. Additional dates can also be added. 
