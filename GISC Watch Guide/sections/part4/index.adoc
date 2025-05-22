@@ -1,7 +1,5 @@
 == PART IV. Procedures for Handover
 
-== Procedures for GISC Watch Handover
-
 === (a) Handover Process
 
 1. The GISC currently on duty is responsible for sending the handover report to the next GISC in the roster.
