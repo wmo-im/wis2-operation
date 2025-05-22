@@ -17,7 +17,8 @@
    * *To:* the next GISC in the roster
    * *CC:* gisc-op@groups.wmo.int
    * *CC:* WMO Secretariat (`wis@wmo.int`)
-3. A sample report is provided below.
+3. A sample GISC report template is available here: https://wmoomm.sharepoint.com/:x:/s/wmocpdb/EbiGWkLbNKREh6XNBoyUrrUBp0GzfXwjaNrWLW-fSs0n3A?e=MKwPo0
+4. A sample Handover email 
 
 == GISC WATCH REPORT EXAMPLE
 >  From: GISC Toulouse
