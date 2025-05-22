@@ -2,20 +2,48 @@
 
 The WIS2 ticketing system is provided and operated by WMO : https://jira.wmo.int.
 
-The GISC in charge needs to review the tickets:
-•	Frequency: at least once or twice a week.
-•	Focus on “stalled” ticket”: send reminder for tickets inactive for more than 2 weeks
-•	Hopefully, most tickets are created automatically by the GISC Monitoring.
+== Tickets review guideline
+The GISC in charge needs to review the tickets with the following guidelines:
 
-Here is the procedure to review Jira Tickets for the GISC Watch:
+(1) Review frequency
 
-1.	Connect to https://jira.wmo.int (request credentials to WMO Secretariat if needed)
-2.	Select WIS2 IMS Project
-3.	Remove « DONE » from Status:
+- At least once or twice a week.
 
-4.	Work with tickets:
-◦	Review ticket list and send reminders (inside tickets) for tickets inactive for more than 2 weeks.
-◦	Assign tickets to relevant Assignees for the tickets with status “TRIAGE” (new tickets)
+(2) Key focus
+
+- Focus on “stalled” ticket”: send reminder for tickets inactive for more than 2 weeks
+
+(3) Automatic ticket creation
+
+- Most tickets are expected to be created automatically by the GISC Monitoring system
+
+
+== Procedure to review Jira Tickets for the GISC Watch:
+
+(1) Access the JIRA system: 
+
+* Access portal: https://jira.wmo.int 
+* Guide to how to login JIRA and reset password as an external user: https://wmoomm.sharepoint.com/:b:/s/wmocpdb/EdDUVYxXoRhIsAMp5yBmFicBz24ARqhDs_YEpidVd5oQ7g?e=7e2CmO
+* JIRA accounts: There are two types of JIRA accounts: 
+   **   WIS2-IMS-Operator, one account per GISC, associated with a genearal email address. 
+   **   WIS2-IMS-Experts,  one or more accounts per GISC. This group is intended for technical experts involved for resolving the tickets. 
+
+If there are any changes or updates to the JIRA accounts for your GISC, please inform the WMO Secretariat so that the necessary updates can be made to ensure continued access.
+
+(2)	Select the correct project
+
+- Choose Project "WIS2 IMS"
+
+(3) Filter tickets 
+
+- "Issues" -> " View all issues and tickets" (upper right) -> Filter "Status" by unchoosing "Done" 
+
+
+
+(4) Ticket Handling 
+
+-  Review ticket list and send reminders (inside tickets) for tickets inactive for more than 2 weeks.
+-  Assign tickets to relevant Assignees for the tickets with status “TRIAGE” (new tickets)
 
 
 Table-1: Priority Levels
