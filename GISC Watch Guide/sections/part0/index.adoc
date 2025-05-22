@@ -6,6 +6,6 @@ This guide presents the procedures to be used:
 
 1. Procedures for Take over
 2. Procedures for Monitoring
-3. Procedures for issue management
+3. Procedures for Issue Management
 4. Procedures for Hand over
 5. Procedure for Escalation
