@@ -38,7 +38,7 @@ If there are any changes or updates to the JIRA accounts for your GISC, please i
 
 - "Issues" -> " View all issues and tickets" (upper right) -> Filter "Status" by unchoosing "Done" 
 
-
+Workflow of the tickets can be found here: https://wmoomm.sharepoint.com/:w:/s/wmocpdb/EXmYNLQKs59AlHToO9rH6YAB3xoVjdqeoD2fkC-4h4aPjA?e=XqmxpR
 
 (4) Ticket Handling 
 
