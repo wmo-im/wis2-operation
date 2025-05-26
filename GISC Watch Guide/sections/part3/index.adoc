@@ -1,0 +1,95 @@
+== PART III. Procedures for Issues Management
+
+The WIS2 ticketing system is provided and operated by WMO : https://jira.wmo.int.
+
+== Tickets review guideline
+The GISC in charge needs to review the tickets with the following guidelines:
+
+(1) Review frequency
+
+- At least once or twice a week.
+
+(2) Key focus
+
+- Focus on “stalled” ticket”: send reminder for tickets inactive for more than 2 weeks
+
+(3) Automatic ticket creation
+
+- Most tickets are expected to be created automatically by the GISC Monitoring system
+
+
+== Procedure to review Jira Tickets for the GISC Watch:
+
+(1) Access the JIRA system: 
+
+* Access portal: https://jira.wmo.int 
+* Guide to how to login JIRA and reset password as an external user: https://wmoomm.sharepoint.com/:b:/s/wmocpdb/EdDUVYxXoRhIsAMp5yBmFicBz24ARqhDs_YEpidVd5oQ7g?e=7e2CmO
+* JIRA accounts: There are two types of JIRA accounts: 
+   **   WIS2-IMS-Operator, one account per GISC, associated with a genearal email address. 
+   **   WIS2-IMS-Experts,  one or more accounts per GISC. This group is intended for technical experts involved for resolving the tickets. 
+
+If there are any changes or updates to the JIRA accounts for your GISC, please inform the WMO Secretariat so that the necessary updates can be made to ensure continued access.
+
+(2)	Select the correct project
+
+- Choose Project "WIS2 IMS"
+
+(3) Filter tickets 
+
+- "Issues" -> " View all issues and tickets" (upper right) -> Filter "Status" by unchoosing "Done" 
+
+Workflow of the tickets can be found here: https://wmoomm.sharepoint.com/:w:/s/wmocpdb/EXmYNLQKs59AlHToO9rH6YAB3xoVjdqeoD2fkC-4h4aPjA?e=XqmxpR
+
+(4) Ticket Handling 
+
+-  Review ticket list and send reminders (inside tickets) for tickets inactive for more than 2 weeks.
+-  Assign tickets to relevant Assignees for the tickets with status “TRIAGE” (new tickets)
+
+
+Table-1: Priority Levels
+
+=== Incident Impact Levels and GISC Response Times
+
+[cols="1,3,2,1,1", options="header"]
+|===
+| Level
+| Impact
+| Examples
+| Assigned GISC: Time to Respond
+| Assigned GISC: Time to Resolve
+
+| Very High
+| - Severe impact on one or more GISC operations +
+  - Immediate action required
+| - Total failure of Global Services
+| ASAP / within 1 day
+| ASAP / within 1 week
+
+| High
+| - One or more essential services are unavailable +
+  - Action required within one week
+| - Global Services are offline
+| Within 1 week
+| Within 1 month
+
+| Medium
+| - Essential services not affected +
+  - Response required, monitoring ongoing
+| - Partial outage of a Global Service +
+  - Missing data from multiple WIS2Nodes simultaneously
+| Within 1 week
+| Monthly progress updates
+
+| Low
+| Not to be used
+| —
+| —
+| —
+
+| None
+| Not to be used
+| —
+| —
+| —
+|===
+
