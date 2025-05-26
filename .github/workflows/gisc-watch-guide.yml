@@ -37,8 +37,8 @@ jobs:
           git checkout gh-pages
           git config --global user.email "tomkralidis@gmail.com"
           git config --global user.name "Tom Kralidis"
-          rm -rf wis2-gisc-watch-guide
-          mv -f /tmp/wis2-gisc-watch-guide/* .
+          rm -rf gisc-watch-guide
+          mv -f /tmp/wis2-gisc-watch-guide gisc-watch-guide
           git add .
           git commit -am "update WIS2 GISC Watch Guide build"
           git push
