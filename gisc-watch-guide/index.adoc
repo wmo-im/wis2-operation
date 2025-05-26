@@ -1,4 +1,4 @@
-:title: GISC Watch Guide 
+:title: WIS2 GISC Watch Guide 
 :titletext: {title}
 :version: 0.1
 :date: {docdate}
