@@ -9,5 +9,45 @@ Basic principles:
 
 The following table shall be filled in, by checking Global Monitoring metrics:
  
+[frame=all,cols="1,1,1,1,1,1"]
+|===
+|Global Services|Test Source|Details|Roster Start|Optional additional dates|Roster end
+
+3+|*Global Monitorings*|YYYY/MM/DD|...|YYYY/MM/DD
+|GM CMA GISC|https://gm.wis.cma.cn|User: gisc_user|connect OK|...|connect OK
+|GM CMA GS|https://gm.wis.cma.cn|User: gs_user|connect OK|...|connect OK
+|GM MAROCMETEO GISC|https://wis2gmc.marocmeteo.ma/|User: gisc-user|connect OK|...|connect NOK
+
+3+|*Global Brokers*|||
+3+|Based on dashboard *WIS2-GISC/wis2-gisc-GB* (gisc_user) / Indicator: "WIS2Nodes Total Messages over past 24h"|YYYY/MM/DD|...|YYYY/MM/DD
+|GB Brazil 2+|From GM China|63|...|64
+|GB Brazil 2+|From GM MAROCMETEA|63|...|Not Available
+|GB China 2+|From GM China|68|...|68
+|GB China 2+|From GM MAROCMETEA |68|...|Not Available
+|GB France 2+|From GM China |62|...|63
+|GB France 2+|From GM MAROCMETEA |62|...|Not Available
+|GB USA 2+|From GM China |46|...|52
+|GB USA 2+|From GM MAROCMETEA |46|...|Not Available
+
+3+|*Global Caches*|||
+3+|Based on dashboard *WIS2-GISC/wis2-gisc-GC* (gisc_user) / Indicator: "WIS2Nodes Total downloaded over past 24h"|YYYY/MM/DD|...|YYYY/MM/DD
+|GC CN CMA 2+|From GM China|No data|...|No data
+|GB CN CMA 2+|From GM MAROCMETEA |No data|...|No data
+|GC MO NOAA US/UK 2+|From GM China|58|...|58
+|GB MO NOAA US/UK 2+|From GM MAROCMETEA |58|...|58
+|GC DE DWD 2+|From GM China|56|...|58
+|GB DE DWD 2+|From GM MAROCMETEA |56|...|58
+|GC JP JMA 2+|From GM China|57|...|58
+|GB JP JMA 2+|From GM MAROCMETEA |57|...|58
+|GC SA NCM 2+|From GM China|No data|...|59
+|GB SA NCM 2+|From GM MAROCMETEA |No data|...|59
+
+3+|*JIRA Ticketing System*|YYYY/MM/DD|...|YYYY/MM/DD
+|Total "In Progress"|||No data|...|2
+|Total "To Do"|||No data|...|2
+|Total "Done"|||No data|...|2
+|Total "In Review"|||No data|...|2
+|Total "Triage"|(should be zero)||No data|...|2
+|===
 
 Check has to be performed at roster start and roster end. Additional dates can also be added. 
