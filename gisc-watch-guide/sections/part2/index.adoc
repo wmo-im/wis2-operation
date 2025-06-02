@@ -7,7 +7,7 @@ Basic principles:
 2. Issues regarding data coming from WIS2Nodes are manages by GISCs according to their AoR (Area of Responsibility). The GISC Watch can pinpoint issues to the GISCs, but this is not mandatory.
 3. A large part of the monitoring activity is already performed on the Global Monitoring level, with JIRA tickets to be automatically initiated.
 
-The following table shall be filled in, by checking Global Monitoring metrics:
+The following table shall be filled in, by checking Global Monitoring metrics (see detailed information how to get the figures after the table):
  
 [frame=all,cols="1,1,1,1,1,1"]
 |===
@@ -49,5 +49,20 @@ The following table shall be filled in, by checking Global Monitoring metrics:
 |Total "In Review"|||No data|...|2
 |Total "Triage"|(should be zero)||No data|...|2
 |===
+
+*How to fetch data from the dashboards:*
+
+=== Global brokers data
+
+=== Global caches data
+
+image::01_LOGIN.jpeg[]
+Log in as gisc_user
+
+image::02_GC_Dashboard.jpeg[]
+Click on Dashboards, then wis2-gisc-GC
+
+image::03_GC-Data.jpeg[]
+Select GC and read value
 
 Check has to be performed at roster start and roster end. Additional dates can also be added. 
