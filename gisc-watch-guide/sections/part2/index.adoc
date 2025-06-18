@@ -56,13 +56,13 @@ The following table shall be filled in, by checking Global Monitoring metrics (s
 
 === Global caches data
 
-image::01_LOGIN.jpeg[]
+image::images/01_LOGIN.jpeg[]
 Log in as gisc_user
 
-image::02_GC_Dashboard.jpeg[]
+image::images/02_GC_Dashboard.jpeg[]
 Click on Dashboards, then wis2-gisc-GC
 
-image::03_GC-Data.jpeg[]
+image::images/03_GC-Data.jpeg[]
 Select GC and read value
 
 Check has to be performed at roster start and roster end. Additional dates can also be added. 

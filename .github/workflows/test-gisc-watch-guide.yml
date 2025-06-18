@@ -22,7 +22,7 @@ jobs:
         uses: actions/checkout@master
       - name: build documentation
         run: |
-          mkdir -p /tmp/wis2-gisc-watch-guide \
+          mkdir -p /tmp/wis2-gisc-watch-guide/images \
           && cd gisc-watch-guide \
           && asciidoctor --trace -o /tmp/wis2-gisc-watch-guide/${FILE_BASENAME}.html index.adoc \
           && asciidoctor --trace --backend docbook --out-file - index.adoc | pandoc --from docbook --to docx --output /tmp/wis2-gisc-watch-guide/${FILE_BASENAME}.docx \
