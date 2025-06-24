@@ -22,12 +22,12 @@ jobs:
         uses: actions/checkout@master
       - name: build documentation
         run: |
-          mkdir -p /tmp/gisc-watch-guide/images \
+          mkdir -p /tmp/wis2-gisc-watch-guide/images \
           && cd gisc-watch-guide \
           && asciidoctor --trace -o /tmp/wis2-gisc-watch-guide/${FILE_BASENAME}.html index.adoc \
           && asciidoctor --trace --backend docbook --out-file - index.adoc | pandoc --from docbook --to docx --output /tmp/wis2-gisc-watch-guide/${FILE_BASENAME}.docx \
           && asciidoctor --trace -r asciidoctor-pdf --trace -b pdf -o /tmp/wis2-gisc-watch-guide/${FILE_BASENAME}.pdf index.adoc \
-          && cp images/*.jpeg /tmp/gisc-watch-guide/images \
+          && cp images/*.jpeg /tmp/wis2-gisc-watch-guide/images \
           && cd ..
       - name: checkout gh-pages branch
         uses: actions/checkout@master
@@ -39,7 +39,7 @@ jobs:
           git config --global user.email "tomkralidis@gmail.com"
           git config --global user.name "Tom Kralidis"
           rm -rf gisc-watch-guide
-          mv -f /tmp/wis2-gisc-watch-guide gisc-watch-guide
+          mv -f /tmp/wis2-gisc-watch-guide/* .
           git add .
           git commit -am "update WIS2 GISC Watch Guide build"
           git push
