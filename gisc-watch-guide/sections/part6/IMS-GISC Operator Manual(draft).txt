@@ -1,0 +1,64 @@
+﻿IMS - GISC Operator Manual
+
+1．How to login As External User
+Step 1:
+Access the login url https://jira.wmo.int/secure/Dashboard.jspa
+
+Step 2:
+Click on External Users Button
+
+	
+Step 3:
+You will be redirected to login page to write your email and password added in our  database.
+
+2． How to resolve issue
+Step 1:
+After login, you may find the issues assigned to you.
+
+
+
+
+
+
+You can also find the your issue by clicking the User profile->Boards->Only My Issues.
+
+
+There is another way for you to find the entrance by clicking the Issues on the Menu, and ‘My open issues’ could be found on the left.
+
+
+
+Step 2:
+GISC Operator should check the issues , and then assign it to  someone who is  responsible for handling the issue(e.g. HAN Xinqiang) and the issue status will be set from ‘Triage’ to ‘TO DO’
+
+
+
+You can check the workflow by clicking ‘View workflow’.
+
+Step 3:
+Assignee(HAN Xinqiang) starts working on issue, set issue status from ‘TO DO’ TO ‘IN PROGRESS’
+
+
+
+Step 4:
+Assignee(HAN Xinqiang) finished dealing with the issue and submitted it to the leader for review ,set issue status from ‘IN PROGRESS’ to ‘ IN review’，and Assign this issue to the reviewer(XUE Lei).
+You can see the process of issues in the comments below,and see the Reporter, Assignee, Watchers , etc. on the right.
+
+
+
+Step 5:
+The reviewer(XUE Lei) reviewed the problem , assign it back to the issue handler(HAN Xinqian) , and set issue status from ‘In Review’ to ‘IN PROGRESS.
+ 
+
+
+
+Step 6:
+Assignee(HAN Xinqiang) receive feedback from the reviewer, and set issue status from‘IN PROGRESS’ to ‘DONE’, the issue has been successfully dealt with.
+
+
+3． How to create issue
+Step 1:
+    In the User interface section, select Create, and describe the problem in detail through graphics/text and set Priority, and then assign the issue to the relevant GISC.
+
+Step 2:
+Add a comment to supplementary describe the issue
+
