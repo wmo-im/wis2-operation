@@ -7,22 +7,33 @@
 Access the login URL:  
 https://jira.wmo.int/secure/Dashboard.jspa
 
+image::images/Step1.1.png[]
 
 === Step 2:
 Click on the **External Users** button.
 
+image::images/Step1.2.png[]
+
 === Step 3:
 You will be redirected to the login page. Enter your email and password as registered in our database.
+
+image::images/Step1.3.png[]
 
 == 2. How to Resolve an Issue
 
 === Step 1:
 After logging in, you may find the issues assigned to you.
 
+image::images/Step2.1.1.png[]
+
 You can also find your issues by navigating to:
 `User Profile -> Boards -> Only My Issues`
 
+image::images/Step2.1.2.png[]
+
 Alternatively, click on **Issues** in the top menu and select **My Open Issues** from the left panel.
+
+image::images/Step2.1.3.png[]
 
 === Step 2:
 The GISC Operator should:
@@ -30,10 +41,17 @@ The GISC Operator should:
 - Assign it to the responsible person (e.g., HAN Xinqiang).
 - Set the issue status from `Triage` to `TO DO`.
 
+image::images/Step2.2.1.png[]
+image::images/Step2.2.2.png[]
+
 You can view the workflow by clicking on **View Workflow**.
+image::images/Step2.2.3.png[]
 
 === Step 3:
 The assignee (e.g., HAN Xinqiang) begins work on the issue and sets the status from `TO DO` to `IN PROGRESS`.
+
+image::images/Step2.3.1.png[]
+image::images/Step2.3.2.png[]
 
 === Step 4:
 After addressing the issue, the assignee submits it for review:
@@ -42,21 +60,35 @@ After addressing the issue, the assignee submits it for review:
 
 The process history is visible in the comments below, along with Reporter, Assignee, Watchers, etc., on the right.
 
+image::images/Step2.4.1.png[]
+
 === Step 5:
 The reviewer (XUE Lei) reviews the issue, assigns it back to the original handler (e.g., HAN Xinqiang), and sets the status from `IN REVIEW` to `IN PROGRESS`.
+
+image::images/Step2.5.1.png[]
+
+image::images/Step2.5.2.png[]
 
 === Step 6:
 The assignee receives the feedback, completes any follow-up, and sets the status from `IN PROGRESS` to `DONE`.
 
 The issue is now successfully resolved.
 
+image::images/Step2.6.1.png[]
+
+image::images/Step2.6.2.png[]
+
 == 3. How to Create an Issue
 
 === Step 1:
 In the user interface, click **Create**, describe the problem in detail using graphics and/or text, set the **Priority**, and assign the issue to the relevant GISC.
 
+image::images/Step3.1.1.png[]
+
 === Step 2:
 Add a comment to further explain the issue.
+
+image::images/Step3.2.1.png[]
 
 
 
