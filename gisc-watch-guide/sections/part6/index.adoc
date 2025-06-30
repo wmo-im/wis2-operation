@@ -45,6 +45,7 @@ image::images/Step2.2.1.png[]
 image::images/Step2.2.2.png[]
 
 You can view the workflow by clicking on **View Workflow**.
+
 image::images/Step2.2.3.png[]
 
 === Step 3:
