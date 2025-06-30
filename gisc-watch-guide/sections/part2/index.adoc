@@ -8,15 +8,44 @@ Basic Principles:
 3. A large part of the monitoring activity is already performed on the Global Monitoring level, with JIRA tickets to be automatically initiated.
 
 The following table shall be filled in, by checking Global Monitoring metrics (see detailed information how to get the figures after the table):
-For GM-China Dashboard:
 
-image::images/GM-CHINA_01.jpg[]
+*For GM-China Dashboard:*
 
-image::images/GM-CHINA_02.jpg[]
+image::images/GM-CHINA_01.JPG[]
 
-image::images/GM-CHINA_03.jpg[]
+image::images/GM-CHINA_02.JPG[]
 
-image::images/GM-CHINA_04.jpg[]
+image::images/GM-CHINA_03.JPG[]
+
+image::images/GM-CHINA_04.JPG[]
+
+image::images/GM-CHINA_05.JPG[]
+
+image::images/GM-CHINA_06.JPG[]
+
+image::images/GM-CHINA_07.JPG[]
+
+image::images/GM-CHINA_08.JPG[]
+
+image::images/GM-CHINA_09.JPG[]
+
+*For GM-Morocco Dashboard:*
+
+image::images/GM-Marocco_01.JPG[]
+
+image::images/GM-Marocco_02.JPG[]
+
+image::images/GM-Marocco_03.JPG[]
+
+image::images/GM-Marocco_04.JPG[]
+
+image::images/GM-Marocco_05.JPG[]
+
+image::images/GM-Marocco_06.JPG[]
+
+image::images/GM-Marocco_07.JPG[]
+
+image::images/GM-Marocco_08.JPG[]
 
  
 [frame=all,cols="1,1,1,1,1,1"]
