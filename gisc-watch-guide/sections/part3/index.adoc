@@ -34,6 +34,8 @@ If there are any changes or updates to the JIRA accounts for your GISC, please i
 
 - Choose Project "WIS2 IMS"
 
+image::images/JIRA-summary-01.jpg[]
+
 (3) Filter tickets 
 
 - "Issues" -> " View all issues and tickets" (upper right) -> Filter "Status" by unchoosing "Done" 
@@ -45,6 +47,7 @@ Workflow of the tickets can be found here: https://wmoomm.sharepoint.com/:w:/s/w
 -  Review ticket list and send reminders (inside tickets) for tickets inactive for more than 2 weeks.
 -  Assign tickets to relevant Assignees for the tickets with status “TRIAGE” (new tickets)
 
+image::images/JIRA-summary-02.jpg[]
 
 Table-1: Priority Levels
 
