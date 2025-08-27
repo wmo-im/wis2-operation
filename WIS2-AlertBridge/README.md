@@ -2,8 +2,6 @@
 
 A **Flask-based service** that receives alerts (via Prometheus/Alertmanager webhook) and automatically creates **Jira tickets**, with assignment, watchers, and rotation logic.  
 
----
-
 ## ✨ Features
 
 - 📡 **Webhook endpoint** (`/webhook`) to receive Prometheus alerts.  
@@ -13,8 +11,6 @@ A **Flask-based service** that receives alerts (via Prometheus/Alertmanager webh
   - **Bi-weekly rotation** of watchers (15-day cycle).  
 - 💾 **Redis persistence** to prevent duplicate ticket creation.  
 - ✅ Checks ticket status (open/closed) before creating new ones.  
-
----
 
 ## 📊 Workflow
 
