@@ -16,6 +16,16 @@ A **Flask-based service** that receives alerts (via Prometheus/Alertmanager webh
 
 ---
 
-## 📂 Project Structure
+## 📊 Workflow
+
+Prometheus/Alertmanager sends an alert to /webhook.
+
+The service checks Redis for an existing ticket.
+
+If none → creates a new Jira ticket with assignee & watcher.
+
+If exists but ticket is closed → creates a new one.
+
+Redis is updated with the new ticket reference.
 
 
