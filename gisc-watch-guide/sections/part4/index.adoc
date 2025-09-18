@@ -17,9 +17,10 @@
    * *To:* the next GISC in the roster
    * *CC:* gisc-ops@groups.wmo.int, wis@wmo.int
   
-3. The GISC report to be completed is available https://wmoomm.sharepoint.com/:x:/s/wmocpdb/EVtmA2a5B3tPin3qAaWhza4B0k0MGs2N590AM5l6wMGOfQ[here]
-   * *Note1*: Only the email addresses of the GISCs included in the mailing list gisc-ops@groups.wmo.int, which serves as the official channel for GISC Watch handover and takeover communications, have the access to edit this document as per the decisions at the https://wmoomm.sharepoint.com/:w:/s/wmocpdb/EYX8q_uGps1FnpMQnsOgS58BODzbraUTtKsYdYzr0zcTfw?e=tbvvaT[ET-WISOP 10th meeting].
-   * *Note2*: For any changes of the email addresses, please contact the WMO Secretariat at wis@wmo.int.
+3. The GISC Watch report to be completed is available https://wmoomm.sharepoint.com/:x:/s/wmocpdb/EVtmA2a5B3tPin3qAaWhza4B0k0MGs2N590AM5l6wMGOfQ[here]
+   * *Note1*: The GISC Watch report is a consolidated report. Outgoing GISCs are responsible for adding the columns corresponding to the GISC Watch period.
+   * *Note2*: Only the email addresses of the GISCs included in the mailing list gisc-ops@groups.wmo.int, which serves as the official channel for GISC Watch handover and takeover communications, have the access to edit this document as per the decisions at the https://wmoomm.sharepoint.com/:w:/s/wmocpdb/EYX8q_uGps1FnpMQnsOgS58BODzbraUTtKsYdYzr0zcTfw?e=tbvvaT[ET-WISOP 10th meeting].
+   * *Note3*: For any changes of the email addresses, please contact the WMO Secretariat at wis@wmo.int.
 
 4. A sample Handover email 
 
@@ -30,8 +31,8 @@
 >  Subject: GISC WATCH REPORT — 01–15 April 2025
 >  
 
-
->  GISC Toulouse has completed the GISC Watch duty for the period *1–15 April 2025*. Please find below the summary report for this period.
+>  GISC Toulouse has completed the GISC Watch duty for the period *1–15 April 2025*. 
+>  Please find below the summary report for this period: 
 >  1. General Information
 >  ▪	 WIS2 to GTS gateway test conducted on *9 April 2025*
 >  2. Global Services Status
