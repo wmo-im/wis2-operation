@@ -15,15 +15,18 @@
 1. The handover report *formally transfers GISC Watch responsibilities* to the next GISC.
 2. The report must be sent as follows:
    * *To:* the next GISC in the roster
-   * *CC:* gisc-op@groups.wmo.int
-   * *CC:* WMO Secretariat (`wis@wmo.int`)
-3. A sample GISC report template is available here: https://wmoomm.sharepoint.com/:x:/s/wmocpdb/EbiGWkLbNKREh6XNBoyUrrUBp0GzfXwjaNrWLW-fSs0n3A?e=MKwPo0
+   * *CC:* gisc-ops@groups.wmo.int, wis@wmo.int
+  
+3. The GISC report to be completed is available https://wmoomm.sharepoint.com/:x:/s/wmocpdb/EVtmA2a5B3tPin3qAaWhza4B0k0MGs2N590AM5l6wMGOfQ[here]
+   * *Note1*: Only the email addresses of the GISCs included in the mailing list gisc-ops@groups.wmo.int, which serves as the official channel for GISC Watch handover and takeover communications, have the access to edit this document as per the decisions at the https://wmoomm.sharepoint.com/:w:/s/wmocpdb/EYX8q_uGps1FnpMQnsOgS58BODzbraUTtKsYdYzr0zcTfw?e=tbvvaT[ET-WISOP 10th meeting].
+   * *Note2*: For any changes of the email addresses, please contact the WMO Secretariat at wis@wmo.int.
+
 4. A sample Handover email 
 
 == GISC WATCH REPORT EXAMPLE
 >  From: GISC Toulouse
 >  To: GISC Beijing
->  Cc: gisc-op@groups.wmo.int, wis@wmo.int
+>  Cc: gisc-ops@groups.wmo.int, wis@wmo.int
 >  Subject: GISC WATCH REPORT — 01–15 April 2025
 >  
 
