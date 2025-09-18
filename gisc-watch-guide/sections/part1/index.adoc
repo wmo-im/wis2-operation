@@ -17,7 +17,7 @@ Sample takeover email:
 
 >  From: GISC Beijing
 >  To: GISC Toulouse
->  Cc: gisc-op@groups.wmo.int + wis@wmo.int
+>  Cc: gisc-ops@groups.wmo.int,wis@wmo.int
 >  Subject: GISC WATCH Takeover (16-30 April) confirmed: GISC Watch Report 01-15 April 2025
 >  
 >  Dear GISC Toulouse,
