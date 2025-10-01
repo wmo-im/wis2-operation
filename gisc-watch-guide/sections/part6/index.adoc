@@ -97,6 +97,7 @@ image::images/Step3.2.1.png[]
 
 === Step 3:
 Add a Due Date as needed
+
 * *Note1* Reporter may add a Due Date when creating a ticket.
 * *Note2* The GISC Watch on-duty may add a due date and update the ticket priority if none is set or if the issues have been outstanding for some time.
 
