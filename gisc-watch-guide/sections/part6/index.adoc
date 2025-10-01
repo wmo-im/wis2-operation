@@ -22,8 +22,8 @@ image::images/Step1.3.png[]
 == 2. How to Resolve an Issue
 * *Note1* The GISC Watch on-duty may close tickets if the comments clearly indicate that the issue has been resolved. If the comments are unclear, lack evidence, or show no progress, the GISC Watch on-duty is responsible for following up with the assignee to verify the ticket’s status.
 * *Note2* The ticket reporter may close tickets once the issue has been resolved.
-* *Note3* The WMO Secretariat may close the tickets if the comments clearly indicate the issue has been resolved.
-* *Note4* The GISC Watch on-duty may add a due date and update the ticket priority if none is set or if the issues have been outstanding for some time.
+* *Note3* The assignee may close tickets once the issue has been resolved.
+* *Note4* The WMO Secretariat may close the tickets if the comments clearly indicate the issue has been resolved.
 
 === Step 1:
 After logging in, you may find the issues assigned to you.
@@ -97,6 +97,8 @@ image::images/Step3.2.1.png[]
 
 === Step 3:
 Add a Due Date as needed
+* *Note1* Reporter may add a Due Date when creating a ticket.
+* *Note2* The GISC Watch on-duty may add a due date and update the ticket priority if none is set or if the issues have been outstanding for some time.
 
 image::images/Step3.3.1.png[]
 
