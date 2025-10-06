@@ -27,14 +27,15 @@ jobs:
           && asciidoctor --trace -o /tmp/wis2-gisc-watch-guide/${FILE_BASENAME}.html index.adoc \
           && asciidoctor --trace --backend docbook --out-file - index.adoc | pandoc --from docbook --to docx --output /tmp/wis2-gisc-watch-guide/${FILE_BASENAME}.docx \
           && asciidoctor --trace -r asciidoctor-pdf --trace -b pdf -o /tmp/wis2-gisc-watch-guide/${FILE_BASENAME}.pdf index.adoc \
-          && cp images/*.jpeg /tmp/wis2-gisc-watch-guide/images \
+          && cp images/*.jpeg images/*.JPG images/*.png /tmp/wis2-gisc-watch-guide/images \
           && cd ..
       - name: checkout gh-pages branch
         uses: actions/checkout@master
         with:
           ref: gh-pages
       - name: update gh-pages branch and publish
-        run: | 
+        run: |
+          git checkout gh-pages
           git config --global user.email "tomkralidis@gmail.com"
           git config --global user.name "Tom Kralidis"
           rm -rf gisc-watch-guide
