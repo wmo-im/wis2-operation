@@ -25,7 +25,10 @@ jobs:
       - name: Generate current-gisc-watch.txt
         run: |
           python3 scripts/generate-current-gisc-watch.py
-
+      - name: checkout gh-pages branch
+        uses: actions/checkout@master
+        with:
+          ref: gh-pages
       - name: update gh-pages branch and publish
         run: |
           git checkout gh-pages
