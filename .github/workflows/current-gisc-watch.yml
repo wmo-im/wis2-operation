@@ -1,5 +1,5 @@
 # Workflow to generate current-gisc-watch.txt and publish to github-pages
-name: Generate and Publish Current GISC Watch
+name: Update Current GISC Watch
 
 on:
   schedule:
@@ -24,7 +24,7 @@ jobs:
 
       - name: Generate current-gisc-watch.txt
         run: |
-          python3 scripts/generate_current_gisc_watch.py
+          python3 scripts/generate-current-gisc-watch.py
 
       - name: update gh-pages branch and publish
         run: |
