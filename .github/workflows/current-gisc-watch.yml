@@ -9,6 +9,9 @@ on:
       - main
       - add-gisc-watch-roster
 
+permissions:
+  contents: write  # Required to push to gh-pages
+
 jobs:
   update-current-gisc-watch:
     name: Update current-gisc-watch.txt
@@ -16,26 +19,24 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
+        with:
+          fetch-depth: 0  # Needed to access all branches
+      
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
-
+      
       - name: Generate current-gisc-watch.txt
+        run: python3 scripts/generate-current-gisc-watch.py
+
+      - name: Commit and push to gh-pages
         run: |
-          python3 scripts/generate-current-gisc-watch.py
-      - name: checkout gh-pages branch
-        uses: actions/checkout@master
-        with:
-          ref: gh-pages
-      - name: update gh-pages branch and publish
-        run: |
-          git checkout gh-pages
           git config --global user.email "wis2-support@wmo.int"
           git config --global user.name "wis2-operation GHA"
-          rm -rf current-gisc-watch.txt
+          git checkout gh-pages
+          cp current-gisc-watch.txt .
           git add current-gisc-watch.txt
-          git commit -am "update current-gisc-watch.txt"
-          git push
+          git commit -m "update current-gisc-watch.txt" || echo "No changes to commit"
+          git push origin gh-pages
 
