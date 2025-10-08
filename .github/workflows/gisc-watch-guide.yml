@@ -36,8 +36,8 @@ jobs:
       - name: update gh-pages branch and publish
         run: |
           git checkout gh-pages
-          git config --global user.email "tomkralidis@gmail.com"
-          git config --global user.name "Tom Kralidis"
+          git config --global user.email "wis2-support@wmo.int"
+          git config --global user.name "wis2-operation GHA"
           rm -rf gisc-watch-guide
           mv -f /tmp/wis2-gisc-watch-guide/* .
           git add .
