@@ -35,7 +35,8 @@ jobs:
           git config --global user.email "wis2-support@wmo.int"
           git config --global user.name "wis2-operation GHA"
           git checkout gh-pages
-          cp current-gisc-watch.txt .
+          echo "Updating current-gisc-watch.txt with contents:"
+          cat current-gisc-watch.txt
           git add current-gisc-watch.txt
           git commit -m "update current-gisc-watch.txt" || echo "No changes to commit"
           git push origin gh-pages
