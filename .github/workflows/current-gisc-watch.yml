@@ -1,6 +1,5 @@
 # Workflow to generate current-gisc-watch.txt and publish to github-pages
 name: Generate and Publish Current GISC Watch
-on:
 
 on:
   schedule:
