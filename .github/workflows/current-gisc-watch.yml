@@ -1,0 +1,39 @@
+# Workflow to generate current-gisc-watch.txt and publish to github-pages
+name: Generate and Publish Current GISC Watch
+on:
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  push:
+    branches:
+      - main
+      - add-gisc-watch-roster
+
+jobs:
+  update-current-gisc-watch:
+    name: Update current-gisc-watch.txt
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Generate current-gisc-watch.txt
+        run: |
+          python3 scripts/generate_current_gisc_watch.py
+
+      - name: update gh-pages branch and publish
+        run: |
+          git checkout gh-pages
+          git config --global user.email "wis2-support@wmo.int"
+          git config --global user.name "wis2-operation GHA"
+          rm -rf current-gisc-watch.txt
+          git add current-gisc-watch.txt
+          git commit -am "update current-gisc-watch.txt"
+          git push
+
