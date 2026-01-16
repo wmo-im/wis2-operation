@@ -39,7 +39,8 @@ jobs:
           git config --global user.email "wis2-support@wmo.int"
           git config --global user.name "wis2-operation GHA"
           rm -rf gisc-watch-guide
-          mv -f /tmp/wis2-gisc-watch-guide/* .
+          mkdir -p gisc-watch-guide
+          mv -f /tmp/wis2-gisc-watch-guide/* gisc-watch-guide
           git add .
           git commit -am "update WIS2 GISC Watch Guide build"
           git push
