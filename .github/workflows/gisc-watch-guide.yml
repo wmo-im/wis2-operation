@@ -42,5 +42,6 @@ jobs:
           mkdir -p gisc-watch-guide
           mv -f /tmp/wis2-gisc-watch-guide/* gisc-watch-guide
           git add .
+          ls -lR
           git commit -am "update WIS2 GISC Watch Guide build"
           git push
