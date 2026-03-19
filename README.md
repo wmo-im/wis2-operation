@@ -1,6 +1,10 @@
 # wis2-operation
 
-This repository supports WIS2 Operations and [GISC Watch Guide](https://wmo-im.github.io/wis2-operation/gisc-watch-guide/wis2-gisc-watch-guide.html) as part of the work of the [ET-WISOP](https://community.wmo.int/site/knowledge-hub/governance/infcom/standing-committee-information-management-and-technology-sc-imt/expert-team-wis-operations-et-wisop)
+This repository supports WIS2 Operations and [GISC Watch Guide](https://wmo-im.github.io/wis2-operation/gisc-watch-guide/wis2-gisc-watch-guide.html) as part of the work of the [ET-WISOP team](https://community.wmo.int/site/knowledge-hub/governance/infcom/standing-committee-information-management-and-technology-sc-imt/expert-team-wis-operations-et-wisop)
+
+## ET-WISOP meeting and workplan
+
+The ET-WISOP team meets on a bi-weekly meeting and will address tasks managed through the [ET-WISOP workplan project](https://github.com/orgs/wmo-im/projects/80)
 
 ## Terms of References for ET-WISOP
 
