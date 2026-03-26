@@ -1,13 +1,13 @@
-Global Service type,Centre identifier,IP address
-Global Broker,br-inmet-global-broker,"200.130.106.52"
-Global Broker,cn-cma-global-broker,"210.73.54.136,210.73.54.113,210.73.54.114,210.73.54.115"
-Global Broker,fr-meteofrance-global-broker,"136.156.128.207"
-Global Broker,us-noaa-global-broker,"137.75.108.151,137.75.108.138"
-Global Cache,cn-cma-global-cache,"210.73.54.116,210.73.54.117,210.73.54.118,210.73.54.133"
-Global Cache,data-metoffice-noaa-global-cache,"137.75.108.151,137.75.108.138"
-Global Cache,de-dwd-global-cache,"141.38.3.181,141.38.3.182,141.38.3.183"
-Global Cache,jp-jma-global-cache,"35.76.201.251,13.115.11.72,52.199.179.40,13.115.63.198, 52.197.6.144,3.115.242.83"
-Global Cache,kr-kma-global-cache,"203.247.93.39,203.247.93.36"
-Global Cache,sa-ncm-global-cache,"185.131.76.72"
+Global Service type,Centre identifier,IP address,Contact,E-mail
+Global Broker,br-inmet-global-broker,"200.130.106.52",José Mauro de Rezende,jmauro.rezende@inmet.gov.br
+Global Broker,cn-cma-global-broker,"210.73.54.113,210.73.54.114,210.73.54.115,210.73.54.136",Lei XUE,xuelei@cma.gov.cn
+Global Broker,fr-meteofrance-global-broker,"136.156.128.207",Rémy GIRAUD,remy@giraud.me
+Global Broker,us-noaa-global-broker,"137.75.108.138,137.75.108.151",Steve OLSON,steve.r.olson@noaa.gov
+Global Cache,cn-cma-global-cache,"210.73.54.116,210.73.54.117,210.73.54.118,210.73.54.133",Lei XUE,xuelei@cma.gov.cn
+Global Cache,data-metoffice-noaa-global-cache,"137.75.108.138,137.75.108.151",Steve OLSON,steve.r.olson@noaa.gov
+Global Cache,de-dwd-global-cache,"141.38.3.181,141.38.3.182,141.38.3.183",Wirt Kai-Thorsten,kai-thorsten.wirt@dwd.de
+Global Cache,jp-jma-global-cache,"35.76.201.251,13.115.11.72,52.199.179.40,13.115.63.198,52.197.6.144,3.115.242.83",Takumu EGAWA,egawa@met.kishou.go.jp
+Global Cache,kr-kma-global-cache,"203.247.93.36,203.247.93.39",Yuni LEE,yuni23@korea.kr
+Global Cache,sa-ncm-global-cache,"185.131.76.72",Mansour Murtada Punjabi,m.punjabi@ncm.gov.sa
 
 
