@@ -1,4 +1,4 @@
-<h2>Procedure for managing changes to Global Services</h2>
+<h2>Global Services Change Management Procedure</h2>
 <h3>1 Purpose</h3>
 <p>This recipe establishes a standardized and structured procedure for managing changes to Global Services (GS) within the WIS 2.0 environment. It defines the end-to-end process from change proposal, impact assessment, testing, and approval to implementation and post-validation. The goal is to ensure all changes are carried out with minimized operational risk and guaranteed compliance, thereby safeguarding the normal operation of WIS 2.0.</p>
 <h3>2 Scope</h3>
@@ -103,3 +103,4 @@ Significant Change | Changes that may affect WIS2 Node or Global Service operati
 <li><strong>Communication Records</strong>: All key step communications (e.g., community notifications, assessment conclusions, approval instructions) should be conducted through formal channels (email, official announcements) and documented.</li>
 <li><strong>Change Calendar</strong>: The WMO Secretariat should maintain a global change calendar for coordination and conflict avoidance.</li>
 </ul>
+<a href="./Global_Services_Change_Management_Procedure_Flowchart.pdf">Global Services Change Management Procedure Flowchart.pdf</a>
