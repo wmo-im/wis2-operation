@@ -56,21 +56,22 @@ The ET-WISOP team meets on a bi-weekly meeting and will address tasks managed th
 ## Invited experts 
 >all team: [@wmo-im/ET-WISOP-invited-experts](https://github.com/orgs/wmo-im/teams/et-wisop-invited-experts)
 
-| No | Member | Role | GitHub handle |
+| No | Member | Role | GitHub user |
 |----|--------|------|-------------|
 | 1 | Rémy GIRAUD | SC-IMT Chair | [@golfvert](https://github.com/golfvert) |
-| 2 | Wenjing GU | GISC Beijing | [@guwj0609](https://github.com/guwj0609) |
-| 3 | Mohammad Bagher Iraji | GISC Tehran | [@mbiraji](https://github.com/mbiraji) |
-| 4 | Wirt Kai-Thorsten | GISC Offenbach | [@kaiwirt](https://github.com/kaiwirt) |
-| 5 | Elena Arenskötter | GISC Offenbach | [@el4ren](https://github.com/el4ren) |
-| 6 | Rinae Tshibubudze | GISC Pretoria | [@RinaeTshibubudze](https://github.com/RinaeTshibubudze) |
-| 7 | Vera Korbulakova | GISC Moscow | [@VeraKorbulakova](https://github.com/VeraKorbulakova) |
-| 8 | Yutaro Tonooka | GISC Tokyo | [@YutaroJMA](https://github.com/YutaroJMA) |
-| 9 | Yuni LEE | GISC Seoul | [@YuniLEE-GISCSeoul](https://github.com/YuniLEE-GISCSeoul) |
-| 10 | Steve Olson | GISC Washington | [@solson-nws](https://github.com/solson-nws) |
-| 11 | Majed Mahjoub | GISC Jeddah | m.mahjoub@ncm.gov.sa |
-| 12 | Ahmed Abubaker Kubysi | GISC Jeddah | obedat@gmail.com |
-| 13 | François Gaillard | GISC Toulouse | [@francoisgai](https://github.com/francoisgai) |
-| 14 | Niall Malpeli-Hosiene | GISC Exeter | [@mo-niallhosiene](https://github.com/mo-niallhosiene) |
-| 15 | Kentaro TSUBOI | GISC Tokyo | [@ktsuboi-jma](https://github.com/ktsuboi-jma) |
-| 16 | Haemi NOH  | GISC Seoul | [@hmnoh30](https://github.com/hmnoh30)  |
+| 2 | Jeremy Tandy | SC-IMT Co-vice-chair | [@6a6d74](https://github.com/6a6d74) |
+| 3 | Wenjing GU | GISC Beijing | [@guwj0609](https://github.com/guwj0609) |
+| 4 | Mohammad Bagher Iraji | GISC Tehran | [@mbiraji](https://github.com/mbiraji) |
+| 5 | Wirt Kai-Thorsten | GISC Offenbach | [@kaiwirt](https://github.com/kaiwirt) |
+| 6 | Elena Arenskötter | GISC Offenbach | [@el4ren](https://github.com/el4ren) |
+| 7 | Rinae Tshibubudze | GISC Pretoria | [@RinaeTshibubudze](https://github.com/RinaeTshibubudze) |
+| 8 | Vera Korbulakova | GISC Moscow | [@VeraKorbulakova](https://github.com/VeraKorbulakova) |
+| 9 | Yutaro Tonooka | GISC Tokyo | [@YutaroJMA](https://github.com/YutaroJMA) |
+| 10 | Yuni LEE | GISC Seoul | [@YuniLEE-GISCSeoul](https://github.com/YuniLEE-GISCSeoul) |
+| 11 | Steve Olson | GISC Washington | [@solson-nws](https://github.com/solson-nws) |
+| 12 | Majed Mahjoub | GISC Jeddah | m.mahjoub@ncm.gov.sa |
+| 13 | Ahmed Abubaker Kubysi | GISC Jeddah | obedat@gmail.com |
+| 14 | François Gaillard | GISC Toulouse | [@francoisgai](https://github.com/francoisgai) |
+| 15 | Niall Malpeli-Hosiene | GISC Exeter | [@mo-niallhosiene](https://github.com/mo-niallhosiene) |
+| 16 | Kentaro TSUBOI | GISC Tokyo | [@ktsuboi-jma](https://github.com/ktsuboi-jma) |
+| 17 | Haemi NOH  | GISC Seoul | [@hmnoh30](https://github.com/hmnoh30)  |
