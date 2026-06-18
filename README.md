@@ -28,7 +28,7 @@ The ET-WISOP team meets on a bi-weekly meeting and will address tasks managed th
 
 ## ET-WISOP Membership
 
->all team: [@wmo-im/et/wisop](https://github.com/orgs/wmo-im/teams/et-wisop)
+>all team: [@wmo-im/et-wisop](https://github.com/orgs/wmo-im/teams/et-wisop)
 >
 >WMO Contacts Portal: https://contacts.wmo.int/groups/?id=078a1933-5a35-ef11-8409-000d3abfbe29
 
