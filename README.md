@@ -25,3 +25,52 @@ The ET-WISOP team meets on a bi-weekly meeting and will address tasks managed th
 (8) Facilitate training on WIS2 implementation, operation, and transition provided by GISCs and Regional Training Centres.
 
 (9) Liaise with ET-W2IT and ET-W2DP to work consistently and coherently toward successfully implementing WIS 2.0.
+
+## ET-WISOP Membership
+
+>all team: [@wmo-im/et/wisop](https://github.com/orgs/wmo-im/teams/et-wisop)
+>
+>WMO Contacts Portal: https://contacts.wmo.int/groups/?id=078a1933-5a35-ef11-8409-000d3abfbe29
+
+| No | Member | Role | GitHub handle |
+|----|--------|------|-----------------|
+| 1 | Lei XUE | Co-Chair | [@shirley-xuelei](https://github.com/orgs/wmo-im/people/shirley-xuelei) |
+| 2 | Thorsten BÜSSELBERG | Co-Chair | [@tbuessel](https://github.com/tbuessel)|
+| 3 | Chems eddine ELGARRAI | member | [@elgarraichemseddine](https://github.com/orgs/wmo-im/people/elgarraichemseddine) |
+| 4 | Christa FERREIRA | member | [@cferreira262](https://github.com/orgs/wmo-im/people/cferreira262) |
+| 5 | Prashant BANSAL | member | [@prashantbsa]() |
+| 6 | Zeinab ZAKERI | member | [@zaakeri](https://github.com/orgs/wmo-im/people/zaakeri) |
+| 7 | Yusuke NAKAGAKI | member | [@yunakagaki](https://github.com/orgs/wmo-im/people/yunakagaki) |
+| 8 | Kyunghee LEE | member | [@Kay-goranlee5](https://github.com/orgs/wmo-im/people/Kay-goranlee52) |
+| 9 | Mansour Murtada Punjabi | member | [@M.punjabi@ncm.gov.sa](https://github.com/orgs/wmo-im/people/mansourmcc) |
+| 10 | José Mauro DE REZENDE | member | [@JMauror](https://github.com/orgs/wmo-im/people/JMauror) |
+| 11 | Kari Lynn SHEETS | member | [@klsheets](https://github.com/orgs/wmo-im/people/klsheets) |
+| 12 | Dr Weiqing QU | member | [@wqu-bom](https://github.com/orgs/wmo-im/people/wqu-bom) |
+| 13 | David PODEUR | member | [@davidpodeur](https://github.com/orgs/wmo-im/people/davidpodeur) |
+| 14 | Vladimir Viktorovich TSUKANOV (Vera on behalf of) | member | [@VeraKorbulakova](https://github.com/orgs/wmo-im/people/VeraKorbulakova) |
+| 15 | Paul NELSON | member | [@paul4devon](https://github.com/orgs/wmo-im/people/paul4devon) |
+| 16 | Tom KRALIDIS | member | [@tomkralidis](https://github.com/orgs/wmo-im/people/tomkralidis) |
+| 17 | Xinqiang HAN | associated expert | [@Amienshxq](https://github.com/orgs/wmo-im/people/Amienshxq) |
+
+
+## Invited experts 
+>all team: [@wmo-im/ET-WISOP-invited-experts](https://github.com/orgs/wmo-im/teams/et-wisop-invited-experts)
+
+| No | Member | Role | GitHub handle |
+|----|--------|------|-------------|
+| 1 | Rémy GIRAUD | SC-IMT Chair | [@golfvert](https://github.com/golfvert) |
+| 2 | Wenjing GU | GISC Beijing | [@guwj0609](https://github.com/guwj0609) |
+| 3 | Mohammad Bagher Iraji | GISC Tehran | [@mbiraji](https://github.com/mbiraji) |
+| 4 | Wirt Kai-Thorsten | GISC Offenbach | [@kaiwirt](https://github.com/kaiwirt) |
+| 5 | Elena Arenskötter | GISC Offenbach | [@el4ren](https://github.com/el4ren) |
+| 6 | Rinae Tshibubudze | GISC Pretoria | [@RinaeTshibubudze](https://github.com/RinaeTshibubudze) |
+| 7 | Vera Korbulakova | GISC Moscow | [@VeraKorbulakova](https://github.com/VeraKorbulakova) |
+| 8 | Yutaro Tonooka | GISC Tokyo | [@YutaroJMA](https://github.com/YutaroJMA) |
+| 9 | Yuni LEE | GISC Seoul | [@YuniLEE-GISCSeoul](https://github.com/YuniLEE-GISCSeoul) |
+| 10 | Steve Olson | GISC Washington | [@solson-nws](https://github.com/solson-nws) |
+| 11 | Majed Mahjoub | GISC Jeddah | m.mahjoub@ncm.gov.sa |
+| 12 | Ahmed Abubaker Kubysi | GISC Jeddah | obedat@gmail.com |
+| 13 | François Gaillard | GISC Toulouse | [@francoisgai](https://github.com/francoisgai) |
+| 14 | Niall Malpeli-Hosiene | GISC Exeter | [@mo-niallhosiene](https://github.com/mo-niallhosiene) |
+| 15 | Kentaro TSUBOI | GISC Tokyo | [@ktsuboi-jma](https://github.com/ktsuboi-jma) |
+| 16 | Haemi NOH  | GISC Seoul | [@hmnoh30](https://github.com/hmnoh30)  |
