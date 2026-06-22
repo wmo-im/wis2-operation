@@ -15,8 +15,8 @@ The GISC in charge needs to review the tickets with the following guidelines:
 
 (3) Automatic ticket creation
 
-- Most tickets are expected to be created automatically by the GISC Monitoring system
-
+- Most tickets are expected to be created automatically by both Global Monitor operators 
+- On 21 May 2026, both GMs enabled automatic ticket creation in the production JIRA platform. At present, only alert rules defined as “critical” severity in the WIS2 Metric Hierarchy repository (https://github.com/wmo-im/wis2-metric-hierarchy/tree/main/alerts) will trigger JIRA ticket generation.
 
 == Procedure to review Jira Tickets for the GISC Watch:
 
@@ -46,6 +46,7 @@ Workflow of the tickets can be found here: https://wmoomm.sharepoint.com/:w:/s/w
 
 -  Review ticket list and send reminders (inside tickets) for tickets inactive for more than 2 weeks.
 -  Assign tickets to relevant Assignees for the tickets with status “TRIAGE” (new tickets)
+-  Tickets can only be closed by the assignee with a summary. The reporter may reopen the tickets as needed.
 
 image::images/JIRA-summary-02.jpg[]
 
