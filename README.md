@@ -75,3 +75,12 @@ The ET-WISOP team meets on a bi-weekly meeting and will address tasks managed th
 | 15 | Niall Malpeli-Hosiene | GISC Exeter | [@mo-niallhosiene](https://github.com/mo-niallhosiene) |
 | 16 | Kentaro TSUBOI | GISC Tokyo | [@ktsuboi-jma](https://github.com/ktsuboi-jma) |
 | 17 | Haemi NOH  | GISC Seoul | [@hmnoh30](https://github.com/hmnoh30)  |
+
+## WMO Secretariat 
+| No | Name | GitHub user |
+|----|--------|------|
+|1|Enrico Fucile|[@efucile](https://github.com/efucile)|
+|2|Hassan Haddouch|[@hhaddouch](https://github.com/hhaddouch)|
+|3|Xiaoxia Chen|[@chenxiaoxia2019](https://github.com/chenxiaoxia2019)|
+|4|Maaike Limper|[@maaikelimper](https://github.com/maaikelimper)|
+
