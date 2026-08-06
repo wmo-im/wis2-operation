@@ -1,0 +1,4 @@
+Flask==2.3.4
+requests==2.31.0
+redis==5.3.7
+paho-mqtt==1.6.1
