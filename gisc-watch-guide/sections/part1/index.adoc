@@ -1,34 +1,67 @@
-== PART I. Procedures for Take over
-Procedure to use when a GISC starts its GISC watch period:
-
-(a).	Take over the GISC Watch duty according to the agreed roster.
-
-The GISC Watch roster is available here: https://community.wmo.int/en/activity-areas/wis/gisc_watch
 
 
-(b).	Handover acknowledgement
+== PART I. Procedures for Handing Over and Taking Over GISC Watch Duties
 
--  Accept the hand-over-report from previous GISC
--  Send an acknowledgement to confirm receipt. 
+The following procedures define the responsibilities of outgoing and incoming GISCs to ensure a smooth handover and continuity of GISC Watch operations.
 
-Note: To ensure the continuity of GISC Watch, the incoming GISC must begin monitoring duties at the start of its roster period even if the handover email/report has not yet been received.
+The agreed GISC Watch roster is available link:https://github.com/wmo-im/wis2-operation/blob/main/gisc-watch-roster.csv[here].
 
-Sample takeover email:
+=== (a) General Principles
 
->  From: GISC Beijing
->  To: GISC Toulouse
->  Cc: gisc-ops@groups.wmo.int,wis@wmo.int
->  Subject: GISC WATCH Takeover (16-30 April) confirmed: GISC Watch Report 01-15 April 2025
->  
->  Dear GISC Toulouse,
->  Thank you for your efforts and the handover report. 
->  GISC Beijing will take over the duty from April 16th to 30th 2025.
->  Best regards,
->  GISC Beijing
+* The outgoing GISC is responsible for handing over its GISC Watch duties, and the incoming GISC is responsible for taking over, in accordance with the agreed roster.
+* The handover and takeover process must be conducted through the WIS2 Information Management System (IMS) JIRA platform.
+* If the JIRA platform is unavailable, the handover must be conducted by email to the incoming GISC, with `gisc-ops@groups.wmo.int` and `wis@wmo.int` in copy.
+* The outgoing GISC is responsible for following up on the handover and ensuring that the incoming GISC acknowledges receipt of the handover report.
+* If no acknowledgement is received, the outgoing GISC must send a reminder and continue monitoring duties until the handover is confirmed. If there is still no response, the GISC scheduled immediately after the incoming GISC in the roster must be contacted to agree on a revised handover arrangement.
+* Any proposed changes to the agreed roster (e.g. swapping monitoring periods) must first be mutually agreed upon by the two GISCs concerned. The WMO Secretariat must then be informed to update the roster accordingly. This is particularly important because the roster is used for the automatic assignment of JIRA tickets by both Global Monitoring services.
 
+=== (b) Responsibilities of the Outgoing GISC: Handover Report
 
-(c). Review open tickets
+==== (b.1) Create a JIRA Ticket
 
-At the beginning of its monitoring period, review any open tickets from the previous period.
+Upon completion of its monitoring period, the outgoing GISC must create a JIRA ticket to document the handover report.
+
+* *Issue Type:* `Support`
+* *Summary:* `GISC WATCH REPORT — Begin_date - End_date` ( *Example:* `GISC WATCH REPORT — 1 - 15 August 2026`)
+* *Content:* Include the GISC Watch report, covering monitoring activities, global services status, incidents, and JIRA ticket activity during the reporting period.  ( *Example:* https://wmoomm.sharepoint.com/:w:/s/INFCOMWorkspace/IQCo0tOmwLaORb4N9OigPgbfAQdjIbhgicp9OGYNZHrk7KU?e=FF4mrW[GISC WATCH REPORT - 16 - 30 September 2026])
+* *Assignee:* Incoming GISC
+
+[NOTE]
+====
+If JIRA is unavailable, the outgoing GISC must send the handover report by email to the incoming GISC, with `gisc-ops@groups.wmo.int` and `wis@wmo.int` in copy.
+====
+
+==== (b.2) Update the Consolidated GISC Watch Report
+
+The outgoing GISC must complete the consolidated link:https://wmoomm.sharepoint.com/:x:/s/INFCOMWorkspace/IQA4czRZMydHRrTPs_u3G8K5AZ5ERkoQ79I_KVJ0KdSRhIQ[GISC Watch Report 2026].
+
+* *Note 1:* The GISC Watch report is a consolidated document. Each outgoing GISC is responsible for adding and completing the columns corresponding to its assigned monitoring period.
+* *Note 2:* Editing access is restricted to the email addresses of GISCs included in the `gisc-ops@groups.wmo.int` mailing list. This mailing list serves as the official communication channel for GISC Watch handover and takeover procedures, in accordance with the decisions of the link:https://wmoomm.sharepoint.com/:w:/s/INFCOMWorkspace/IQDQgOdXQXzJR5BQaL0C-ZMKAT7HRMDlvDaUBPhvSQvWelE?e=bcGDRy[10th ET-WISOP meeting].
+* *Note 3:* Any changes to GISC contact email addresses must be communicated to the WMO Secretariat at `wis@wmo.int` to ensure that the mailing list and document access remain up to date.
+
+=== (c) Responsibilities of the Incoming GISC: Acknowledgement of Handover
+
+Upon receiving the handover report, the incoming GISC must acknowledge receipt through the corresponding JIRA ticket.
+
+The incoming GISC must:
+
+. *Add a comment* to the JIRA ticket confirming receipt of the handover report and acceptance of the GISC Watch duties.
+. *Update the ticket status* to `Done` to close the handover ticket.
+
+[IMPORTANT]
+====
+To ensure continuity of GISC Watch operations, the incoming GISC must commence monitoring duties at the beginning of its assigned roster period, regardless of whether the handover report or email has been received.
+
+The absence of a handover report or acknowledgement must not result in any gap in monitoring coverage.
+====
+
+=== (d) Review Open JIRA Tickets
+
+At the beginning of its assigned monitoring period, the incoming GISC must:
+
+. Review all open JIRA tickets carried over from the previous monitoring period.
+. Check the latest updates, comments, and pending follow-up actions for each ticket.
+. Continue monitoring unresolved issues and follow up with the relevant GISCs or responsible parties as necessary throughout its assigned period.
+
 
 

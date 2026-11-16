@@ -37,8 +37,6 @@ include::sections/part2/index.adoc[]
 
 include::sections/part3/index.adoc[]
 
-include::sections/part4/index.adoc[]
-
 include::sections/part5/index.adoc[]
 
 include::sections/part6/index.adoc[]

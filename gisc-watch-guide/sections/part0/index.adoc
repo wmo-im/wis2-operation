@@ -4,8 +4,7 @@ This Guide was first developed in 2020 to standardize the procedures for GISC Wa
 
 This guide presents the procedures to be used:
 
-1. Procedures for Take over
+1. Procedures for Handover/Take over
 2. Procedures for Monitoring
 3. Procedures for Issue Management
-4. Procedures for Hand over
-5. Procedure for Escalation
+4. Procedure for Escalation
